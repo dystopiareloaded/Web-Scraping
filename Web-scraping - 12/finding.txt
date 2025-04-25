@@ -1,6 +1,0 @@
-hotel name, 
-price,
-ratings,
-locations,
-reviews, 
-limks
